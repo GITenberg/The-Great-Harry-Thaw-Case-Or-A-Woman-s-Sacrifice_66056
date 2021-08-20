@@ -1,11 +1,16 @@
 _repo: The-Great-Harry-Thaw-Case-Or-A-Woman-s-Sacrifice_66056
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66056-h/images/cover.jpg
 creator:
   author:
     agent_name: Atwell, Benjamin H.
     gutenberg_agent_id: '53619'
     url: http://www.gutenberg.org/2009/agents/53619
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66056#The-Great-Harry-Thaw-Case-Or-A-Woman-s-Sacrifice
 gutenberg_issued: '2021-08-13'
 gutenberg_type: Text
 identifiers:
